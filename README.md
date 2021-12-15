@@ -33,10 +33,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudabubaker9&show_icons=true&locale=en&layout=compact" alt="mahmoudabubaker9" /></p>
 
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudabubaker9&show_icons=true&locale=en" alt="mahmoudabubaker9" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudabubaker9&" alt="mahmoudabubaker9" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudabubaker9&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudabubaker9" /> </p>
